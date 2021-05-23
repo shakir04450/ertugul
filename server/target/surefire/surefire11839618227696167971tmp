@@ -1,0 +1,5 @@
+#surefire
+#Sun May 23 09:36:58 UTC 2021
+basedir=/root/shakir/maven-project/server
+user.dir=/root/shakir/maven-project/server
+localRepository=/root/.m2/repository
